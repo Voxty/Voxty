@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Voxtylive&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue Software Development. I love what I do and love to upload free shit! I do have some paid products just so I can earn something out of this hobby!
+Howdy, I'm a 20 year old coder that lives in New York State. I've been coding for around 4 years.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
@@ -38,7 +38,7 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 - OS: Windows 11
 - Browser: Google Chrome
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://www.youtube.com/channel/UCz5xLLrL_6OPI1ODoYO_mMQ/featured), [Discord](https://discord.gg/EqEcKzNkDB), and [Twitter](https://twitter.com/itzVoxty)
+- Stay Updated: [YouTube](https://www.youtube.com/channel/UCz5xLLrL_6OPI1ODoYO_mMQ/featured), [Discord]([https://discord.gg/EqEcKzNkDB](https://discord.gg/PgxGQyqgsP)), and [Twitter](https://twitter.com/itzVoxty)
 
 ---
 
