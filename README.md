@@ -6,7 +6,6 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz5xLLrL_6OPI1ODoYO_mMQ/featured)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itzVoxty)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Voxty)
-[![Twitch Badge](https://img.shields.io/twitch/status/voxtylive?style=social)](https:/twitch.tv/voxtylive)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Voxtylive&label=Views&color=blue&style=plastic)
 
