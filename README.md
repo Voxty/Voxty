@@ -3,8 +3,6 @@
 <img align="right" height="60" width="60" alt="" src="https://media.discordapp.net/attachments/982376730255826958/1016110270629822494/Voxty_Shacks_Logo.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/PgxGQyqgsP)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz5xLLrL_6OPI1ODoYO_mMQ/featured)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itzVoxty)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Voxty)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Voxtylive&label=Views&color=blue&style=plastic)
